@@ -38,6 +38,7 @@ The concept of steganography is to conceal information within another medium so 
 ```bash
 $ ./a.out stego -e beautiful.bmp secret.txt encoded.bmp
 
+## 🧪 Example Usage
 
 ### **Decoding**
 ```bash
